@@ -9,7 +9,7 @@
 
 if (!params) {              
     var params = {
-        firebase_url: 'https://progresshive.firebaseio.com/', hashId: '<YOUR HASHID>',
+        firebase_url: 'https://progresshive.firebaseio.com/', hashId: '<-KlrfpwEUnS6auUuw-LF>',
         defaultIcon: 'https://www.progresshive.io/resource/image/addToHome/launcher-icon-4x.png'
     };
 }
