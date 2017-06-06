@@ -7,7 +7,7 @@
   "display": "standalone",
   "background_color": "#fafafa",
   "theme_color": "#fafafa",
-  "gcm_sender_id": "<YOUR PROJECT NO>",
+  "gcm_sender_id": "<521>",
     "icons": [
     {
       "src": "assets/logoicon-192x192.png",
